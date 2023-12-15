@@ -3,10 +3,9 @@
 ## перед началом работы
 в тексте команды отображены следующим образом:
 
-`git`
+`git init`
 
 ```shell
-git init
 git checkout -b BRANCH-NAME
 ```
 
