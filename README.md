@@ -69,7 +69,6 @@ git remote add origin https://github.com/YOUR-GITHUB-NAME/YOUR-GITHUB-REPOSITORY
 *note: https://github.com/YOUR-GITHUB-NAME/YOUR-GITHUB-REPOSITORY-NAME.git - ссылка на ваш репозиторий*
 
 *note: оборатите внимание, что в адресной строке в браузере часть ".git" отсутствует, но в команде она должна быть*
-
 6. чтобы отметить, что вы добавили/изминили/удалили файлы в вашем проекте, необходимо добавить их *staging area* с помощью команды `git add .` или `git add --all` или `git add -A`
 7. создайте коммит с помощью команды `git commit -m "ANY-MESSAGE-YOU-WANT-TO-LIVE"`
 8. отправьте изменения в удаленный репозиторий с помощью команды `git push -u origin BRANCH-NAME`
